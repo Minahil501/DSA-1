@@ -6,7 +6,8 @@ From Basic concepts to implementations, this repository tracks my learning journ
 - Arrays, Stacks, Queues, Circular Queues  
 - Stack/Queues using Lists  
 - Singly & Doubly Linked Lists  
-- Binary Search Tree (BST), Red-Black Tree, Trie  
+- Binary Search Tree (BST), Red-Black Tree, Trie
+- Min heap , Max heap 
 - Recursion  
 - Unordered Maps
 
